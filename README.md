@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vinext-starter
 
 A clean full-stack starter running on
@@ -98,3 +99,41 @@ actions tied to the current ChatGPT user. Leave public content anonymous.
 
 - [vinext Documentation](https://github.com/cloudflare/vinext)
 - [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+=======
+# 💰 Finance Toolkit
+
+A modern and responsive personal finance web application that brings together essential financial calculators and planning tools in one place.
+
+## ✨ Features
+
+- 💰 Budget Tracker
+- 📊 Income & Expense Analysis
+- 💸 Loan Calculator
+- 🏦 Interest Calculator
+- 💵 Currency Converter
+- 📈 Investment Profit Calculator
+- 🧾 Tax Calculator
+- 🎯 Savings Goal Tracker
+
+## 🚀 Technologies
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📱 Responsive Design
+
+Fully responsive and optimized for:
+
+- Desktop
+- Tablet
+- Mobile
+
+## 🎯 Purpose
+
+Finance Toolkit is designed to help users manage their personal finances, estimate future expenses, and make smarter financial decisions through easy-to-use tools.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+>>>>>>> 458344eb915d88423ffdeb7fa82e26726ffb1fe1
